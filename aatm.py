@@ -1,4 +1,4 @@
-print('Welcome to Northen Frock Bank ATM')
+print('Welcome to L&T ATM')
 restart=('Y')
 chances = 3
 balance = 67.14
