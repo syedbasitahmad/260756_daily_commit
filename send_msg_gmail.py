@@ -9,7 +9,7 @@ a.starttls()
 # gmail and password
 a.login("_______________@gmail.com","_____________")
 
-msg="Hello"
+msg="Hello pycharm"
 
 #sending mail
 
