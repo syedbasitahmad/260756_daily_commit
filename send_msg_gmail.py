@@ -12,6 +12,7 @@ a.login("_______________@gmail.com","_____________")
 msg="Hello"
 
 #sending mail
+
 a.sendmail("_______________@gmail.com","___________8@gmail.com",msg)
 
 print("msg sent")
