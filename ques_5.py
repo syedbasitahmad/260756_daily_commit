@@ -10,6 +10,7 @@ def price(no_of_pizzas):
         return no_of_pizzas*120
     else:
         return no_of_pizzas*130
+        
 if __name__=="__main__":
     no_of_pizzas=take_input()
     ans=price(no_of_pizzas)
