@@ -11,7 +11,6 @@ else:
     leap_year = False
 
 month = int(input("Input a month [1-12]: "))
-
 if month in (1, 3, 5, 7, 8, 10, 12):
     month_length = 31
 elif month == 2:
