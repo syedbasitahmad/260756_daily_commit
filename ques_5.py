@@ -1,3 +1,4 @@
+#price of pizzas problem
 error_msg="plz type correct input"
 def take_input():
     no_of_pizzas=int(input())
